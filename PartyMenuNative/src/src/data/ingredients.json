@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "name": "tomato sauce",
+    "category": "Sauces",
+    "description": "Rich tomato-based sauce perfect for pizzas and pasta",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 2,
+    "name": "mozzarella",
+    "category": "Dairy",
+    "description": "Fresh Italian cheese with mild flavor",
+    "allergens": ["dairy"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 3,
+    "name": "basil",
+    "category": "Herbs",
+    "description": "Fresh aromatic herb commonly used in Italian cuisine",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 4,
+    "name": "olive oil",
+    "category": "Oils",
+    "description": "Extra virgin olive oil for cooking and dressing",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 5,
+    "name": "chicken wings",
+    "category": "Meat",
+    "description": "Fresh chicken wings for grilling and frying",
+    "allergens": ["none"],
+    "isVegetarian": false,
+    "isGlutenFree": true
+  },
+  {
+    "id": 6,
+    "name": "BBQ sauce",
+    "category": "Sauces",
+    "description": "Tangy barbecue sauce with smoky flavor",
+    "allergens": ["gluten"],
+    "isVegetarian": true,
+    "isGlutenFree": false
+  },
+  {
+    "id": 7,
+    "name": "garlic",
+    "category": "Vegetables",
+    "description": "Aromatic bulb used for flavoring",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 8,
+    "name": "paprika",
+    "category": "Spices",
+    "description": "Ground red pepper spice for color and flavor",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 9,
+    "name": "romaine lettuce",
+    "category": "Vegetables",
+    "description": "Crisp leafy green vegetable",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 10,
+    "name": "caesar dressing",
+    "category": "Sauces",
+    "description": "Creamy dressing with anchovies and parmesan",
+    "allergens": ["dairy", "fish"],
+    "isVegetarian": false,
+    "isGlutenFree": true
+  },
+  {
+    "id": 11,
+    "name": "croutons",
+    "category": "Bread",
+    "description": "Crispy toasted bread cubes",
+    "allergens": ["gluten"],
+    "isVegetarian": true,
+    "isGlutenFree": false
+  },
+  {
+    "id": 12,
+    "name": "parmesan",
+    "category": "Dairy",
+    "description": "Aged Italian hard cheese",
+    "allergens": ["dairy"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 13,
+    "name": "dark chocolate",
+    "category": "Desserts",
+    "description": "Rich dark chocolate for baking",
+    "allergens": ["dairy"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 14,
+    "name": "butter",
+    "category": "Dairy",
+    "description": "Creamy dairy butter for baking",
+    "allergens": ["dairy"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 15,
+    "name": "eggs",
+    "category": "Dairy",
+    "description": "Fresh chicken eggs",
+    "allergens": ["eggs"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 16,
+    "name": "sugar",
+    "category": "Sweeteners",
+    "description": "Granulated white sugar",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 17,
+    "name": "flour",
+    "category": "Grains",
+    "description": "All-purpose wheat flour",
+    "allergens": ["gluten"],
+    "isVegetarian": true,
+    "isGlutenFree": false
+  },
+  {
+    "id": 18,
+    "name": "salmon",
+    "category": "Seafood",
+    "description": "Fresh Atlantic salmon fillet",
+    "allergens": ["fish"],
+    "isVegetarian": false,
+    "isGlutenFree": true
+  },
+  {
+    "id": 19,
+    "name": "lemon",
+    "category": "Fruits",
+    "description": "Fresh citrus fruit for flavoring",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 20,
+    "name": "dill",
+    "category": "Herbs",
+    "description": "Fresh aromatic herb with feathery leaves",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 21,
+    "name": "salt",
+    "category": "Seasonings",
+    "description": "Sea salt for seasoning",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 22,
+    "name": "breadcrumbs",
+    "category": "Bread",
+    "description": "Dried bread crumbs for coating",
+    "allergens": ["gluten"],
+    "isVegetarian": true,
+    "isGlutenFree": false
+  },
+  {
+    "id": 23,
+    "name": "marinara sauce",
+    "category": "Sauces",
+    "description": "Italian tomato-based sauce",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 24,
+    "name": "tomatoes",
+    "category": "Vegetables",
+    "description": "Fresh ripe tomatoes",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 25,
+    "name": "cucumber",
+    "category": "Vegetables",
+    "description": "Fresh crisp cucumber",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 26,
+    "name": "feta cheese",
+    "category": "Dairy",
+    "description": "Greek brined cheese",
+    "allergens": ["dairy"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 27,
+    "name": "olives",
+    "category": "Vegetables",
+    "description": "Mediterranean olives",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 28,
+    "name": "mascarpone",
+    "category": "Dairy",
+    "description": "Italian cream cheese",
+    "allergens": ["dairy"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 29,
+    "name": "coffee",
+    "category": "Beverages",
+    "description": "Strong brewed coffee",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  },
+  {
+    "id": 30,
+    "name": "ladyfingers",
+    "category": "Bread",
+    "description": "Italian sponge cookies",
+    "allergens": ["gluten", "eggs"],
+    "isVegetarian": true,
+    "isGlutenFree": false
+  },
+  {
+    "id": 31,
+    "name": "cocoa powder",
+    "category": "Desserts",
+    "description": "Unsweetened cocoa powder",
+    "allergens": ["none"],
+    "isVegetarian": true,
+    "isGlutenFree": true
+  }
+]

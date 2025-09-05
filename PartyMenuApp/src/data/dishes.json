@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "category": "Main Course",
+    "price": 12.99,
+    "description": "Classic pizza with tomato sauce, mozzarella, and fresh basil",
+    "image": "https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?w=300",
+    "ingredients": ["tomato sauce", "mozzarella", "basil", "olive oil"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "prepTime": "20 mins"
+  },
+  {
+    "id": 2,
+    "name": "BBQ Chicken Wings",
+    "category": "Appetizers",
+    "price": 8.99,
+    "description": "Crispy chicken wings glazed with tangy BBQ sauce",
+    "image": "https://images.unsplash.com/photo-1567620832904-9fe5cf23db13?w=300",
+    "ingredients": ["chicken wings", "BBQ sauce", "garlic", "paprika"],
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "prepTime": "25 mins"
+  },
+  {
+    "id": 3,
+    "name": "Caesar Salad",
+    "category": "Salads",
+    "price": 7.99,
+    "description": "Fresh romaine lettuce with Caesar dressing, croutons, and parmesan",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=300",
+    "ingredients": ["romaine lettuce", "caesar dressing", "croutons", "parmesan"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "prepTime": "10 mins"
+  },
+  {
+    "id": 4,
+    "name": "Chocolate Lava Cake",
+    "category": "Desserts",
+    "price": 6.99,
+    "description": "Warm chocolate cake with molten chocolate center",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=300",
+    "ingredients": ["dark chocolate", "butter", "eggs", "sugar", "flour"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "prepTime": "15 mins"
+  },
+  {
+    "id": 5,
+    "name": "Grilled Salmon",
+    "category": "Main Course",
+    "price": 16.99,
+    "description": "Fresh Atlantic salmon grilled with herbs and lemon",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=300",
+    "ingredients": ["salmon", "lemon", "dill", "olive oil", "salt"],
+    "isVegetarian": false,
+    "isGlutenFree": true,
+    "prepTime": "18 mins"
+  },
+  {
+    "id": 6,
+    "name": "Mozzarella Sticks",
+    "category": "Appetizers",
+    "price": 6.99,
+    "description": "Crispy breaded mozzarella sticks with marinara sauce",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d4d0?w=300",
+    "ingredients": ["mozzarella", "breadcrumbs", "eggs", "marinara sauce"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "prepTime": "12 mins"
+  },
+  {
+    "id": 7,
+    "name": "Greek Salad",
+    "category": "Salads",
+    "price": 8.99,
+    "description": "Fresh vegetables with feta cheese, olives, and olive oil dressing",
+    "image": "https://images.unsplash.com/photo-1546793665-c74683f339c1?w=300",
+    "ingredients": ["tomatoes", "cucumber", "feta cheese", "olives", "olive oil"],
+    "isVegetarian": true,
+    "isGlutenFree": true,
+    "prepTime": "8 mins"
+  },
+  {
+    "id": 8,
+    "name": "Tiramisu",
+    "category": "Desserts",
+    "price": 7.99,
+    "description": "Classic Italian dessert with coffee-soaked ladyfingers",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=300",
+    "ingredients": ["mascarpone", "coffee", "ladyfingers", "cocoa powder"],
+    "isVegetarian": true,
+    "isGlutenFree": false,
+    "prepTime": "30 mins"
+  }
+]
